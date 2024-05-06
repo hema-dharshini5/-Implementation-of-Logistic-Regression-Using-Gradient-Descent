@@ -104,44 +104,49 @@ print(y_prednew)
 ## Output:
 Dataset
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/ce3017de-a368-4a72-816e-aca2f9913aa0)
+![1](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/f984ac01-16a6-4e16-a288-73215d99fa8a)
+
 
 Dataset.dtypes
 
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/d809bfe6-b395-4621-a106-598964c6c35a)
+![2](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/7f1ae4c4-7758-445e-beae-4ec8da4e05fa)
+
 
 Dataset
 
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/62d66f05-ec34-4984-9d2e-ea1838edc187)
+![3](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/8233e8f6-653e-45e5-88f9-38684e127382)
+
 
 
 Y
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/38f27ffa-8512-46ff-8a4c-30e3176d7c1b)
+![4](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/6e4e721a-00a2-429a-9d3f-b3f9c94be681)
 
 
 Accuracy
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/5350e3ea-08e0-49bb-9cb6-59afa74f0ddc)
+![5](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/a6377038-645f-47b6-bf31-3c9e3774c3cb)
 
 Y_pred
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/26a0182a-3b89-4472-a225-30b8255d046f)
+![6](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/3a586886-1a39-4927-9a07-690bf5b260e7)
 
 Y
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/15c5a60d-cb38-42ea-95a9-0f5fe0fcd369)
+![7](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/25834f32-967d-434e-8064-b2f51fe183ea)
 
 
-Y_prednew
-
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/70938780-7606-43af-9b93-c959c8a29edf)
 
 Y_prednew
 
-![image](https://github.com/sasirath13/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568449/81e8c44b-2fac-4c02-8ba8-d70c1c02c5b7)
+![8](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/13349b32-60c1-4b53-ab30-ab7382275906)
+
+Y_prednew
+
+![9](https://github.com/hema-dharshini5/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147117728/b250e74a-2c29-4709-bf4c-326be5fe860a)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
